@@ -1,0 +1,28 @@
+
+    [
+      {
+        "name": "Date",
+        "type": "timestamp"
+      },
+      {
+        "name": "Opened_At",
+        "type": "float"
+      },
+      {
+        "name": "Days_High",
+        "type": "float"
+      },
+      {
+        "name": "Days_low",
+        "type": "float"
+      },
+      {
+        "name": "Closed_At",
+        "type": "float"
+      },
+      {
+        "name": "Stock",
+        "type": "string"
+      }
+    ]
+  
